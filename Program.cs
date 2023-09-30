@@ -2,11 +2,6 @@
 using System.Net;
 using System.Text;
 
-using HTTPServer.Formatters;
-using HTTPServer.Loggers;
-using HTTPServer.Managers;
-using HTTPServer.Providers;
-
 namespace HTTPServer
 {
 	public class Program
